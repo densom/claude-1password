@@ -12,6 +12,8 @@
       "name": "local-env-file-management",
       "description": "Tools to populate local .env files from 1password secrets.",
       "source": "./plugins/1password",
+      "keywords": ["1password", "env", "dotenv", "secrets", "local-development"],
+      "license": "MIT",
       "category": "development",
       "author": {
         "name": "Dennis Somerville",
