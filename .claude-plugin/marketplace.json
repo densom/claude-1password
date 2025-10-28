@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-1password",
+  "version": "0.0.1",
+  "description": "A Claude plugin to manage local .env files using secrets stored in 1password.",
+  "owner": {
+    "name": "Dennis Somerville",
+    "email": "densom@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "local-env-file-management",
+      "description": "Tools to populate local .env files from 1password secrets.",
+      "source": "./plugins/1password",
+      "category": "development",
+      "author": {
+        "name": "Dennis Somerville",
+        "email": "densom@users.noreply.github.com"
+      }
+    }
+  ]
+}
