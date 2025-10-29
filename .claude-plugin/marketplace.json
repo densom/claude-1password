@@ -3,7 +3,8 @@
   "name": "claude-1password",
   "owner": {
     "name": "Dennis Somerville",
-    "email": "densom@users.noreply.github.com"
+    "email": "densom@users.noreply.github.com",
+    "url": "https://github.com/densom/claude-1password"
   },
   "metadata": {
     "description": "A collection of plugins to help manage local .env files using 1password secrets.",
